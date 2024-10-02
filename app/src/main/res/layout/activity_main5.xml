@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="209dp"
+        android:layout_height="71dp"
+        android:text="@string/alimentos"
+        android:gravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="45dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="108dp"
+        android:layout_height="93dp"
+        app:srcCompat="@drawable/insecto1"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="150dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="108dp"
+        android:layout_height="104dp"
+        app:srcCompat="@drawable/insecto2"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="250dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="110dp"
+        android:layout_height="111dp"
+        app:srcCompat="@drawable/insecto3"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="363dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="113dp"
+        android:layout_height="102dp"
+        app:srcCompat="@drawable/Insecto4"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="484dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/home"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="660dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="226dp"
+        android:layout_height="91dp"
+        android:text="@string/se_alimentan_de_otros_insectos_acuaticos_como_larvas_de_mosquitos_y_otros_peque_os_invertebrados"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="150dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="225dp"
+        android:layout_height="93dp"
+        android:text="@string/se_alimentan_de_plantas_acuaticas_y_de_algas"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="258dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="220dp"
+        android:layout_height="87dp"
+        android:text="@string/se_alimentan_principalmente_de_peque_os_insectos_y_materia_organica_que_flota_en_la_superficie_del_agua"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="366dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="221dp"
+        android:layout_height="94dp"
+        android:text="@string/la_dieta_de_una_ninfa_de_libelula_consiste_en_peque_os_peces_peque_os_caracoles_renacuajos_gusanos_y_microorganismos"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="484dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

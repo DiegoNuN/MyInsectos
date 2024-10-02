@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Insectos</string>
+    <string name="ingrese_su_correo_o_su_rut">ingrese_su_correo_o_su_rut</string>
+    <string name="mostrar_contrase_a">mostrar_contrase_a</string>
+    <string name="intranet">intranet</string>
+    <string name="insectos">insectos</string>
+    <string name="noticias">noticias</string>
+    <string name="alimentos">alimentos</string>
+    <string name="datos_recopilados">datos recopilados</string>
+    <string name="home">home</string>
+    <string name="_noticias">Noticias</string>
+    <string name="gerridae">gerridae</string>
+    <string name="corixidae">corixidae</string>
+    <string name="notonectidae">notonectidae</string>
+    <string name="dragonfly_nymph">dragonfly_nymph</string>
+    <string name="se_alimentan_de_plantas_acuaticas_y_de_algas">se alimentan de plantas acuaticas y de algas</string>
+    <string name="se_alimentan_principalmente_de_peque_os_insectos_y_materia_organica_que_flota_en_la_superficie_del_agua">se alimentan principalmente de pequeños insectos y materia organica que flota en la superficie del agua</string>
+    <string name="la_dieta_de_una_ninfa_de_libelula_consiste_en_peque_os_peces_peque_os_caracoles_renacuajos_gusanos_y_microorganismos">la dieta de una ninfa de libelula consiste en pequeños peces, pequeños caracoles, renacuajos, gusanos y microorganismos</string>
+    <string name="se_alimentan_de_otros_insectos_acuaticos_como_larvas_de_mosquitos_y_otros_peque_os_invertebrados">se alimentan de otros insectos acuaticos como larvas de mosquitos y otros pequeños invertebrados</string>
+    <string name="mostrar_contrase_a1">mostrar contraseña</string>
+    <string name="ingrese_su_correo_o_su_rut_">ingrese su correo o su rut</string>
+    <string name="iniciar">iniciar sesion</string>
+    <string name="ingrese_su_usuario_">ingrese su usuario</string>
+    <string name="contrase_a_">contraseña</string>
+</resources>
